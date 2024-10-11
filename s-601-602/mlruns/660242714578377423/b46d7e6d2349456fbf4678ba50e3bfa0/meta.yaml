@@ -1,0 +1,15 @@
+artifact_uri: /Users/joaorochaemelo/code/IH/nbs-6-master/s-601-602/mlruns/660242714578377423/b46d7e6d2349456fbf4678ba50e3bfa0/artifacts
+end_time: 1728667745026
+entry_point_name: ''
+experiment_id: '660242714578377423'
+lifecycle_stage: active
+run_id: b46d7e6d2349456fbf4678ba50e3bfa0
+run_name: bustling-sloth-364
+run_uuid: b46d7e6d2349456fbf4678ba50e3bfa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728667744754
+status: 3
+tags: []
+user_id: joaorochaemelo

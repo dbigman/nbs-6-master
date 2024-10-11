@@ -1,0 +1,15 @@
+artifact_uri: /Users/joaorochaemelo/code/IH/nbs-6-master/s-601-602/mlruns/660242714578377423/0c6b1e10349b4005b65c9a907da06e14/artifacts
+end_time: 1728667745627
+entry_point_name: ''
+experiment_id: '660242714578377423'
+lifecycle_stage: active
+run_id: 0c6b1e10349b4005b65c9a907da06e14
+run_name: sophisticated-hog-43
+run_uuid: 0c6b1e10349b4005b65c9a907da06e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728667745287
+status: 3
+tags: []
+user_id: joaorochaemelo
