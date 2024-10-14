@@ -11,12 +11,10 @@ This video provides a detailed and concise tutorial on how to create a free AWS 
 4. **Initial Setup**: Navigating the AWS Management Console and understanding the dashboard.
 
 
-
 ## Step 1: Spin up EC2 Instance ##
 * Go to AWS Console to spin up an EC2 instance of Ubuntu. Select t3.tiny (free tier), but increase the storage volume to 30gb (free tier also)
 * Download the secret access keys (.pem file)
 * Take note of the public IP
-
 
 # Environment Set up #
 Keep in mind that computers have different operative systems and commands. The guide below might not apply to your machine. Follow the steps and use google, documentation and chatgpt to achieve the goals mentionned below if the commands provided do not work.
